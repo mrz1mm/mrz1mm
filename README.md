@@ -91,8 +91,8 @@
   </a>
 </div>
 <div align="left">
-  <a href="mailto:Sasy2506@icloud.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoutlook/microsoftoutlook-plain.svg" width="40" height="40" alt="outlook logo" />
+  <a href="mailto:s.attanasio@outlook.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoutlook/microsoftoutlook-original.svg" width="40" height="40" alt="outlook logo" />
     <p>s.attanasio@outlook.com</p>
   </a>
 </div>
