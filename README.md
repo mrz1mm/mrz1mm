@@ -77,24 +77,19 @@
 
 <h3 align="left">✉️ Come contattarmi:</h3>
 
-###
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn logo" />
+  <a href="https://www.linkedin.com/in/simoneattanasio95/" target="_blank" style="margin-left: 10px;">LinkedIn</a>
+</div>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/simoneattanasio95/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="Discord logo" />
+  <span style="margin-left: 10px;">mr_z1m</span>
 </div>
-<div align="left">
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-    <p align="left">mr_z1m</p>
-  </a>
-</div>
-<div align="left">
-  <a href="mailto:s.attanasio@outlook.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="email logo" />
-    <p>s.attanasio@outlook.com</p>
-  </a>
+
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Email logo" />
+  <a href="mailto:s.attanasio@outlook.com" style="margin-left: 10px;">s.attanasio@outlook.com</a>
 </div>
 
 
