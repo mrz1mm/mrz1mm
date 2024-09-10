@@ -92,7 +92,7 @@
 </div>
 <div align="left">
   <a href="mailto:s.attanasio@outlook.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="email logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/email/email-plain.svg" width="40" height="40" alt="email logo" />
     <p>s.attanasio@outlook.com</p>
   </a>
 </div>
