@@ -92,10 +92,11 @@
 </div>
 <div align="left">
   <a href="mailto:s.attanasio@outlook.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoutlook/microsoftoutlook-original.svg" width="40" height="40" alt="outlook logo" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/microsoftoutlook.svg" width="40" height="40" alt="outlook logo" style="fill: #0072C6;" />
     <p>s.attanasio@outlook.com</p>
   </a>
 </div>
+
 
 <br clear="both">
 
