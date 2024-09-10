@@ -76,10 +76,6 @@
 
 <h3 align="left">✉️ Come contattarmi:</h3>
 
-<h3 align="left">✉️ Come contattarmi:</h3>
-
-<h3 align="left">✉️ Come contattarmi:</h3>
-
 <div align="left">
   <a href="https://www.linkedin.com/in/simoneattanasio95/" target="_blank" style="text-decoration: none !important;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="LinkedIn logo" />
