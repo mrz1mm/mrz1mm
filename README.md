@@ -1,4 +1,4 @@
-<h2 align="left">Ciao 👋! Sono Simone Attanasio, ho 28 anni e sono un Jr. Full Stack Developer </h2>
+<h1 align="left">Hello 👋 </h1>
 
 ###
 
@@ -74,7 +74,7 @@
 
 ###
 
-<h3 align="left">✉️ Come contattarmi:</h3>
+<h3 align="left">✉️ Contacts:</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/simoneattanasio95/" target="_blank" style="text-decoration: none !important;">
