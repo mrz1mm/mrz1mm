@@ -79,19 +79,18 @@
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn logo" />
-  <a href="https://www.linkedin.com/in/simoneattanasio95/" target="_blank" style="margin-left: 10px;">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/simoneattanasio95/" target="_blank" style="margin-left: 10px; text-decoration: none; font-size: 20px; color: #0e76a8;">LinkedIn</a>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="Discord logo" />
-  <span style="margin-left: 10px;">mr_z1m</span>
+  <span style="margin-left: 10px; font-size: 20px;">mr_z1m</span>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Email logo" />
-  <a href="mailto:s.attanasio@outlook.com" style="margin-left: 10px;">s.attanasio@outlook.com</a>
+  <a href="mailto:s.attanasio@outlook.com" style="margin-left: 10px; text-decoration: none; font-size: 20px; color: #D14836;">s.attanasio@outlook.com</a>
 </div>
-
 
 <br clear="both">
 
