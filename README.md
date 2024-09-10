@@ -1,4 +1,4 @@
-<h2 align="left">Ciao 👋! sono Simone Attanasio, ho 28 anni e sono un Jr. Full Stack Developer </h2>
+<h2 align="left">Ciao 👋! Sono Simone Attanasio, ho 28 anni e sono un Jr. Full Stack Developer </h2>
 
 ###
 
@@ -92,7 +92,7 @@
 </div>
 <div align="left">
   <a href="mailto:s.attanasio@outlook.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/email/email-plain.svg" width="40" height="40" alt="email logo" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="email logo" />
     <p>s.attanasio@outlook.com</p>
   </a>
 </div>
