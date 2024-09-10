@@ -13,7 +13,7 @@
 
 ###
 
-<h2 align="left">📚 Queste sono le mie skill:</h2>
+<h2 align="left">📚 Skills:</h2>
 
 ###
 
